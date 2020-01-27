@@ -1,2 +1,0 @@
-(this["webpackJsonpfood-game"]=this["webpackJsonpfood-game"]||[]).push([[0],[,,,function(e,n,t){e.exports=t(10)},,,,,function(e,n,t){},function(e,n,t){},function(e,n,t){"use strict";t.r(n);var a=t(0),o=t.n(a),r=t(2),c=t.n(r);t(8),t(9);var l=function(){return o.a.createElement("div",{className:"app-header"},o.a.createElement("h1",null,"Hello World"))};c.a.render(o.a.createElement(l,null),document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.d6f18819.chunk.js.map

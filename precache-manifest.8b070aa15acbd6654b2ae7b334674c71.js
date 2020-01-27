@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9eaf11431c9ef382220a2c1f91f7abc",
+    "revision": "ffc05d37103a812f71b54fc116ac49b3",
     "url": "/foodGame-react/index.html"
   },
   {
-    "revision": "b63f3cb936cfe566c467",
+    "revision": "472d2ac13caaef400eec",
     "url": "/foodGame-react/static/css/main.5facb584.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodGame-react/static/js/2.8185b4ea.chunk.js.LICENSE"
   },
   {
-    "revision": "b63f3cb936cfe566c467",
-    "url": "/foodGame-react/static/js/main.d6f18819.chunk.js"
+    "revision": "472d2ac13caaef400eec",
+    "url": "/foodGame-react/static/js/main.4b07d08d.chunk.js"
   },
   {
     "revision": "1055ee922a72beb5de42",
