@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/foodGame-react/static/css/main.d1b05096.chunk.css",
-    "main.js": "/foodGame-react/static/js/main.3d3e5b16.chunk.js",
-    "main.js.map": "/foodGame-react/static/js/main.3d3e5b16.chunk.js.map",
+    "main.css": "/foodGame-react/static/css/main.5facb584.chunk.css",
+    "main.js": "/foodGame-react/static/js/main.d6f18819.chunk.js",
+    "main.js.map": "/foodGame-react/static/js/main.d6f18819.chunk.js.map",
     "runtime-main.js": "/foodGame-react/static/js/runtime-main.d39b5204.js",
     "runtime-main.js.map": "/foodGame-react/static/js/runtime-main.d39b5204.js.map",
-    "static/js/2.af53989e.chunk.js": "/foodGame-react/static/js/2.af53989e.chunk.js",
-    "static/js/2.af53989e.chunk.js.map": "/foodGame-react/static/js/2.af53989e.chunk.js.map",
+    "static/js/2.8185b4ea.chunk.js": "/foodGame-react/static/js/2.8185b4ea.chunk.js",
+    "static/js/2.8185b4ea.chunk.js.map": "/foodGame-react/static/js/2.8185b4ea.chunk.js.map",
     "index.html": "/foodGame-react/index.html",
-    "precache-manifest.d8b5ba5a1cd08a80fe5cb9a32f303e47.js": "/foodGame-react/precache-manifest.d8b5ba5a1cd08a80fe5cb9a32f303e47.js",
+    "precache-manifest.f4109145d1ae6775dfc76ce1c40dcd8a.js": "/foodGame-react/precache-manifest.f4109145d1ae6775dfc76ce1c40dcd8a.js",
     "service-worker.js": "/foodGame-react/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/foodGame-react/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.af53989e.chunk.js.LICENSE": "/foodGame-react/static/js/2.af53989e.chunk.js.LICENSE",
-    "static/media/logo.svg": "/foodGame-react/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5facb584.chunk.css.map": "/foodGame-react/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.8185b4ea.chunk.js.LICENSE": "/foodGame-react/static/js/2.8185b4ea.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.d39b5204.js",
-    "static/js/2.af53989e.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.3d3e5b16.chunk.js"
+    "static/js/2.8185b4ea.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.d6f18819.chunk.js"
   ]
 }
