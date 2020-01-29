@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/foodGame-react/static/css/main.5facb584.chunk.css",
-    "main.js": "/foodGame-react/static/js/main.4b07d08d.chunk.js",
-    "main.js.map": "/foodGame-react/static/js/main.4b07d08d.chunk.js.map",
+    "main.css": "/foodGame-react/static/css/main.0d3a2207.chunk.css",
+    "main.js": "/foodGame-react/static/js/main.04a6f770.chunk.js",
+    "main.js.map": "/foodGame-react/static/js/main.04a6f770.chunk.js.map",
     "runtime-main.js": "/foodGame-react/static/js/runtime-main.d39b5204.js",
     "runtime-main.js.map": "/foodGame-react/static/js/runtime-main.d39b5204.js.map",
     "static/js/2.8185b4ea.chunk.js": "/foodGame-react/static/js/2.8185b4ea.chunk.js",
     "static/js/2.8185b4ea.chunk.js.map": "/foodGame-react/static/js/2.8185b4ea.chunk.js.map",
     "index.html": "/foodGame-react/index.html",
-    "precache-manifest.8b070aa15acbd6654b2ae7b334674c71.js": "/foodGame-react/precache-manifest.8b070aa15acbd6654b2ae7b334674c71.js",
+    "precache-manifest.d89950a143e4ae7776933b52090a94e2.js": "/foodGame-react/precache-manifest.d89950a143e4ae7776933b52090a94e2.js",
     "service-worker.js": "/foodGame-react/service-worker.js",
-    "static/css/main.5facb584.chunk.css.map": "/foodGame-react/static/css/main.5facb584.chunk.css.map",
+    "static/css/main.0d3a2207.chunk.css.map": "/foodGame-react/static/css/main.0d3a2207.chunk.css.map",
     "static/js/2.8185b4ea.chunk.js.LICENSE": "/foodGame-react/static/js/2.8185b4ea.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.d39b5204.js",
     "static/js/2.8185b4ea.chunk.js",
-    "static/css/main.5facb584.chunk.css",
-    "static/js/main.4b07d08d.chunk.js"
+    "static/css/main.0d3a2207.chunk.css",
+    "static/js/main.04a6f770.chunk.js"
   ]
 }
