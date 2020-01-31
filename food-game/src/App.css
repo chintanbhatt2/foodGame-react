@@ -1,0 +1,5 @@
+.app-header {
+  color: #000000;
+  font-size: calc(1rem + 2vmin);
+  text-align: center;
+}
