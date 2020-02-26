@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/foodGame-react/precache-manifest.e53c118bbdc228d1ee286b3eac8d6c6f.js"
+  "/foodGame-react/precache-manifest.be7cb26c9fd27bdc93eac80e6f4143ee.js"
 );
 
 self.addEventListener('message', (event) => {

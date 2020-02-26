@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css","App.css"],"names":[],"mappings":"AAAA,KACE,QACF,CCFA,YACE,wBAAyB,CACzB,UAAY,CACZ,4BACF","file":"main.92322096.chunk.css","sourcesContent":["body {\n  margin: 0;\n}\n",".app-header {\n  background-color: #282c34;\n  color: white;\n  font-size: calc(10px + 2vmin);\n}\n"]}
