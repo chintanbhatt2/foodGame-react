@@ -1,16 +1,22 @@
 import React from "react";
 import "./App.css";
 
-function App() {
-  return (
-    <div className="app-header">
-      <h1 className="app-title">Food Game</h1>
-      <InitialScreen />
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <div className="app-header">
+        <h1 className="app-title">Food Game</h1>
+        <InitialScreen />
+      </div>
+    );
+  }
 }
 
 class InitialScreen extends React.Component {
+  InitialSubmit() {
+    alert("AHHHHHH");
+  }
+
   render() {
     return (
       <div className="initial-screen">
@@ -34,16 +40,12 @@ class InitialScreen extends React.Component {
             max="3"
           />
         </p>
-        <button className="firstBtn" onclick={InitialSubmit}>
+        <button className="firstBtn" onClick={() => this.InitialSubmit()}>
           SUBMIT
         </button>
       </div>
     );
   }
-}
-
-function InitialSubmit() {
-  alert("AHHHHHH");
 }
 
 export default App;
